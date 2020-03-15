@@ -1,0 +1,26 @@
+<mylibrary id="1">
+  <name>Test</name>
+  <books id="2">
+    <book id="3">
+      <title>Book1</title>
+      <author>unknown author</author>
+      <person id="4">
+        <name>Fred</name>
+        <maximumBooks>3</maximumBooks>
+        <maximumMovies>1</maximumMovies>
+      </person>
+    </book>
+    <book id="5">
+      <title>Book2</title>
+      <author>unknown author</author>
+    </book>
+  </books>
+  <people id="6">
+    <person reference="4"/>
+    <person id="7">
+      <name>Sue</name>
+      <maximumBooks>3</maximumBooks>
+      <maximumMovies>1</maximumMovies>
+    </person>
+  </people>
+</mylibrary>

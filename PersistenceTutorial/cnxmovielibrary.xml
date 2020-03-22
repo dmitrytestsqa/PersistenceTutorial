@@ -1,0 +1,1262 @@
+<org.persistence.tutorial.MyMovieLibrary id="1">
+  <name>Test Drive Library</name>
+  <movies id="2">
+    <movie id="3">
+      <title>The Shawshank Redemption</title>
+      <director>Frank Darabont</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="4">
+      <title>The Godfather</title>
+      <director>Francis Ford Coppola</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="5">
+      <title>The Godfather: Part II</title>
+      <director>Francis Ford Coppola</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="6">
+      <title>Pulp Fiction</title>
+      <director>Quentin Tarantino</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="7">
+      <title>The Good, the Bad and the Ugly</title>
+      <director>Sergio Leone</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="8">
+      <title>The Dark Knight</title>
+      <director>Christopher Nolan</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="9">
+      <title>12 Angry Men</title>
+      <director>Sidney Lumet</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="10">
+      <title>Schindler&apos;s List</title>
+      <director>Steven Spielberg</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="11">
+      <title>The Lord of the Rings: The Return of the King</title>
+      <director>Peter Jackson</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="12">
+      <title>Fight Club</title>
+      <director>David Fincher</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="13">
+      <title>Star Wars: Episode V - The Empire Strikes Back</title>
+      <director>Irvin Kershner</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="14">
+      <title>The Lord of the Rings: The Fellowship of the Ring</title>
+      <director>Peter Jackson</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="15">
+      <title>One Flew Over the Cuckoo&apos;s Nest</title>
+      <director>Milos Forman</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="16">
+      <title>Inception</title>
+      <director>Christopher Nolan</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="17">
+      <title>Goodfellas</title>
+      <director>Martin Scorsese</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="18">
+      <title>Star Wars</title>
+      <director>George Lucas</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="19">
+      <title>Seven Samurai</title>
+      <director>Akira Kurosawa</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="20">
+      <title>Forrest Gump</title>
+      <director>Robert Zemeckis</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="21">
+      <title>The Matrix</title>
+      <director>The Wachowski Brothers</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="22">
+      <title>The Lord of the Rings: The Two Towers</title>
+      <director>Peter Jackson</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="23">
+      <title>City of God</title>
+      <director>Fernando Meirelles</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="24">
+      <title>Se7en</title>
+      <director>David Fincher</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="25">
+      <title>The Silence of the Lambs</title>
+      <director>Jonathan Demme</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="26">
+      <title>Once Upon a Time in the West</title>
+      <director>Sergio Leone</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="27">
+      <title>Casablanca</title>
+      <director>Michael Curtiz</director>
+      <genre>romance</genre>
+    </movie>
+    <movie id="28">
+      <title>The Usual Suspects</title>
+      <director>Bryan Singer</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="29">
+      <title>Raiders of the Lost Ark</title>
+      <director>Steven Spielberg</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="30">
+      <title>Rear Window</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="31">
+      <title>It&apos;s a Wonderful Life</title>
+      <director>Frank Capra</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="32">
+      <title>Psycho</title>
+      <director>Alfred Hitchcock</director>
+      <genre>horror</genre>
+    </movie>
+    <movie id="33">
+      <title>The Professional</title>
+      <director>Luc Besson</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="34">
+      <title>Sunset Blvd.</title>
+      <director>Billy Wilder</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="35">
+      <title>American History X</title>
+      <director>Tony Kaye</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="36">
+      <title>Apocalypse Now</title>
+      <director>Francis Coppola</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="37">
+      <title>Terminator 2: Judgment Day</title>
+      <director>James Cameron</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="38">
+      <title>Memento</title>
+      <director>Christopher Nolan</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="39">
+      <title>Saving Private Ryan</title>
+      <director>Steven Spielberg</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="40">
+      <title>City Lights</title>
+      <director>Charles Chaplin</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="41">
+      <title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</title>
+      <director>Stanley Kubrick</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="42">
+      <title>Alien</title>
+      <director>Ridley Scott</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="43">
+      <title>Modern Times</title>
+      <director>Charlie Chaplin</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="44">
+      <title>Spirited Away</title>
+      <director>Hayao Miyazaki</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="45">
+      <title>North by Northwest</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="46">
+      <title>Back to the Future</title>
+      <director>Robert Zemeckis</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="47">
+      <title>Life Is Beautiful</title>
+      <director>Roberto Benigni</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="48">
+      <title>The Shining</title>
+      <director>Stanley Kubrick</director>
+      <genre>horror</genre>
+    </movie>
+    <movie id="49">
+      <title>The Pianist</title>
+      <director>Roman Polanski</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="50">
+      <title>Citizen Kane</title>
+      <director>Orson Welles</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="51">
+      <title>The Departed</title>
+      <director>Martin Scorsese</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="52">
+      <title>M</title>
+      <director>Fritz Lang</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="53">
+      <title>Paths of Glory</title>
+      <director>Stanley Kubrick</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="54">
+      <title>Vertigo</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="55">
+      <title>Django Unchained</title>
+      <director>Quentin Tarantino</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="56">
+      <title>The Dark Knight Rises</title>
+      <director>Christopher Nolan</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="57">
+      <title>Double Indemnity</title>
+      <director>Billy Wilder</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="58">
+      <title>Aliens</title>
+      <director>James Cameron</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="59">
+      <title>Taxi Driver</title>
+      <director>Martin Scorsese</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="60">
+      <title>American Beauty</title>
+      <director>Sam Mendes</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="61">
+      <title>The Green Mile</title>
+      <director>Frank Darabont</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="62">
+      <title>Gladiator</title>
+      <director>Ridley Scott</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="63">
+      <title>The Intouchables</title>
+      <director>Olivier Nakache, Eric Toledano</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="64">
+      <title>WALL-E</title>
+      <director>Andrew Stanton</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="65">
+      <title>The Lives of Others</title>
+      <director>Florian Henckel von Donnersmarck</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="66">
+      <title>Toy Story 3</title>
+      <director>Lee Unkrich</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="67">
+      <title>The Great Dictator</title>
+      <director>Charles Chaplin</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="68">
+      <title>The Prestige</title>
+      <director>Christopher Nolan</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="69">
+      <title>A Clockwork Orange</title>
+      <director>Stanley Kubrick</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="70">
+      <title>Lawrence of Arabia</title>
+      <director>David Lean</director>
+      <genre>adventure</genre>
+    </movie>
+    <movie id="71">
+      <title>Amalie</title>
+      <director>Jean-Pierre Jeunet</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="72">
+      <title>To Kill a Mockingbird</title>
+      <director>Robert Mulligan</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="73">
+      <title>Reservoir Dogs</title>
+      <director>Quentin Tarantino</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="74">
+      <title>Das Boot</title>
+      <director>Wolfgang Petersen</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="75">
+      <title>Cinema Paradiso</title>
+      <director>Giuseppe Tornatore</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="76">
+      <title>The Lion King</title>
+      <director>Roger Allers, Rob Minkoff</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="77">
+      <title>Star Wars: Episode VI - Return of the Jedi</title>
+      <director>Richard Marquand</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="78">
+      <title>The Treasure of the Sierra Madre</title>
+      <director>John Huston</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="79">
+      <title>The Third Man</title>
+      <director>Carol Reed</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="80">
+      <title>Once Upon a Time in America</title>
+      <director>Sergio Leone</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="81">
+      <title>Requiem for a Dream</title>
+      <director>Darren Aronofsky</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="82">
+      <title>Eternal Sunshine of the Spotless Mind</title>
+      <director>Michel Gondry</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="83">
+      <title>Full Metal Jacket</title>
+      <director>Stanley Kubrick</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="84">
+      <title>Oldboy</title>
+      <director>Chan-wook Park</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="85">
+      <title>Braveheart</title>
+      <director>Mel Gibson</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="86">
+      <title>L.A. Confidential</title>
+      <director>Curtis Hanson</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="87">
+      <title>Chinatown</title>
+      <director>Roman Polanski</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="88">
+      <title>Singin&apos; in the Rain</title>
+      <director>Stanley Donen, Gene Kelly</director>
+      <genre>musical</genre>
+    </movie>
+    <movie id="89">
+      <title>Bicycle Thieves</title>
+      <director>Vittorio De Sica</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="90">
+      <title>Monty Python and the Holy Grail</title>
+      <director>Terry Gilliam, Terry Jones</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="91">
+      <title>Princess Mononoke</title>
+      <director>Hayao Miyazaki</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="92">
+      <title>Rashomon</title>
+      <director>Akira Kurosawa</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="93">
+      <title>Metropolis</title>
+      <director>Fritz Lang</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="94">
+      <title>Some Like It Hot</title>
+      <director>Billy Wilder</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="95">
+      <title>Amadeus</title>
+      <director>Milos Forman</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="96">
+      <title>2001: A Space Odyssey</title>
+      <director>Stanley Kubrick</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="97">
+      <title>All About Eve</title>
+      <director>Joseph L. Mankiewicz</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="98">
+      <title>The Sting</title>
+      <director>George Roy Hill</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="99">
+      <title>Witness for the Prosecution</title>
+      <director>Billy Wilder</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="100">
+      <title>The Apartment</title>
+      <director>Billy Wilder</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="101">
+      <title>Indiana Jones and the Last Crusade</title>
+      <director>Steven Spielberg</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="102">
+      <title>Unforgiven</title>
+      <director>Clint Eastwood</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="103">
+      <title>Grave of the Fireflies</title>
+      <director>Isao Takahata</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="104">
+      <title>Raging Bull</title>
+      <director>Martin Scorsese</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="105">
+      <title>The Bridge on the River Kwai</title>
+      <director>David Lean</director>
+      <genre>adventure</genre>
+    </movie>
+    <movie id="106">
+      <title>Die Hard</title>
+      <director>John McTiernan</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="107">
+      <title>Batman Begins</title>
+      <director>Christopher Nolan</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="108">
+      <title>A Separation</title>
+      <director>Asghar Farhadi</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="109">
+      <title>Yojimbo</title>
+      <director>Akira Kurosawa</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="110">
+      <title>Inglourious Basterds</title>
+      <director>Quentin Tarantino</director>
+      <genre>adventure</genre>
+    </movie>
+    <movie id="111">
+      <title>For a Few Dollars More</title>
+      <director>Sergio Leone</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="112">
+      <title>Snatch.</title>
+      <director>Guy Ritchie</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="113">
+      <title>Toy Story</title>
+      <director>John Lasseter</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="114">
+      <title>The Great Escape</title>
+      <director>John Sturges</director>
+      <genre>adventure</genre>
+    </movie>
+    <movie id="115">
+      <title>Mr. Smith Goes to Washington</title>
+      <director>Frank Capra</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="116">
+      <title>Up</title>
+      <director>Pete Docter, Bob Peterson</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="117">
+      <title>Downfall</title>
+      <director>Oliver Hirschbiegel</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="118">
+      <title>Pan&apos;s Labyrinth</title>
+      <director>Guillermo del Toro</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="119">
+      <title>On the Waterfront</title>
+      <director>Elia Kazan</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="120">
+      <title>The General</title>
+      <director>Clyde Bruckman, Buster Keaton</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="121">
+      <title>The Seventh Seal</title>
+      <director>Ingmar Bergman</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="122">
+      <title>Heat</title>
+      <director>Michael Mann</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="123">
+      <title>The Elephant Man</title>
+      <director>David Lynch</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="124">
+      <title>The Kid</title>
+      <director>Charlie Chaplin</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="125">
+      <title>The Maltese Falcon</title>
+      <director>John Huston</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="126">
+      <title>Blade Runner</title>
+      <director>Ridley Scott</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="127">
+      <title>Scarface</title>
+      <director>Brian De Palma</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="128">
+      <title>Wild Strawberries</title>
+      <director>Ingmar Bergman</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="129">
+      <title>Rebecca</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="130">
+      <title>Gran Torino</title>
+      <director>Clint Eastwood</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="131">
+      <title>Ikiru</title>
+      <director>Akira Kurosawa</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="132">
+      <title>Fargo</title>
+      <director>Joel Coen</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="133">
+      <title>Ran</title>
+      <director>Akira Kurosawa</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="134">
+      <title>The Big Lebowski</title>
+      <director>Joel Coen</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="135">
+      <title>Touch of Evil</title>
+      <director>Orson Welles</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="136">
+      <title>The Gold Rush</title>
+      <director>Charles Chaplin</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="137">
+      <title>The Deer Hunter</title>
+      <director>Michael Cimino</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="138">
+      <title>Cool Hand Luke</title>
+      <director>Stuart Rosenberg</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="139">
+      <title>No Country for Old Men</title>
+      <director>Ethan Coen, Joel Coen</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="140">
+      <title>It Happened One Night</title>
+      <director>Frank Capra</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="141">
+      <title>Lock, Stock and Two Smoking Barrels</title>
+      <director>Guy Ritchie</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="142">
+      <title>Diabolique</title>
+      <director>H.G. Clouzot</director>
+      <genre>horror</genre>
+    </movie>
+    <movie id="143">
+      <title>Casino</title>
+      <director>Martin Scorsese</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="144">
+      <title>Good Will Hunting</title>
+      <director>Gus Van Sant</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="145">
+      <title>The Sixth Sense</title>
+      <director>M. Night Shyamalan</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="146">
+      <title>Strangers on a Train</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="147">
+      <title>Platoon</title>
+      <director>Oliver Stone</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="148">
+      <title>The Thing</title>
+      <director>John Carpenter</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="149">
+      <title>Jaws</title>
+      <director>Steven Spielberg</director>
+      <genre>horror</genre>
+    </movie>
+    <movie id="150">
+      <title>Sin City</title>
+      <director>Frank Miller, Robert Rodriguez</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="151">
+      <title>Butch Cassidy and the Sundance Kid</title>
+      <director>George Roy Hill</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="152">
+      <title>Trainspotting</title>
+      <director>Danny Boyle</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="153">
+      <title>Kill Bill: Vol. 1</title>
+      <director>Quentin Tarantino</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="154">
+      <title>The Wizard of Oz</title>
+      <director>Victor Fleming</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="155">
+      <title>Warrior</title>
+      <director>Gavin O&apos;Connor</director>
+      <genre>sport</genre>
+    </movie>
+    <movie id="156">
+      <title>The Grapes of Wrath</title>
+      <director>John Ford</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="157">
+      <title>The Secret in Their Eyes</title>
+      <director>Juan Jose Campanella</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="158">
+      <title>High Noon</title>
+      <director>Fred Zinnemann</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="159">
+      <title>Hotel Rwanda</title>
+      <director>Terry George</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="160">
+      <title>Gone with the Wind</title>
+      <director>Victor Fleming</director>
+      <genre>romance</genre>
+    </movie>
+    <movie id="161">
+      <title>Annie Hall</title>
+      <director>Woody Allen</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="162">
+      <title>My Neighbor Totoro</title>
+      <director>Hayao Miyazaki</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="163">
+      <title>V for Vendetta</title>
+      <director>James McTeigue</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="164">
+      <title>Finding Nemo</title>
+      <director>Andrew Stanton, Lee Unkrich</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="165">
+      <title>The Avengers</title>
+      <director>Joss Whedon</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="166">
+      <title>Dial M for Murder</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="167">
+      <title>Notorious</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="168">
+      <title>How to Train Your Dragon</title>
+      <director>Dean DeBlois, Chris Sanders</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="169">
+      <title>Into the Wild</title>
+      <director>Sean Penn</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="170">
+      <title>Life of Brian</title>
+      <director>Terry Jones</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="171">
+      <title>The Hunt</title>
+      <director>Thomas Vinterberg</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="172">
+      <title>The Night of the Hunter</title>
+      <director>Charles Laughton</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="173">
+      <title>There Will Be Blood</title>
+      <director>Paul Thomas Anderson</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="174">
+      <title>Network</title>
+      <director>Sidney Lumet</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="175">
+      <title>The Terminator</title>
+      <director>James Cameron</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="176">
+      <title>Ben-Hur</title>
+      <director>William Wyler</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="177">
+      <title>Million Dollar Baby</title>
+      <director>Clint Eastwood</director>
+      <genre>sport</genre>
+    </movie>
+    <movie id="178">
+      <title>The Big Sleep</title>
+      <director>Howard Hawks</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="179">
+      <title>Stand by Me</title>
+      <director>Rob Reiner</director>
+      <genre>adventure</genre>
+    </movie>
+    <movie id="180">
+      <title>The King&apos;s Speech</title>
+      <director>Tom Hooper</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="181">
+      <title>The Best Years of Our Lives</title>
+      <director>William Wyler</director>
+      <genre>romance</genre>
+    </movie>
+    <movie id="182">
+      <title>The 400 Blows</title>
+      <director>Francois Truffaut</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="183">
+      <title>Groundhog Day</title>
+      <director>Harold Ramis</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="184">
+      <title>Twelve Monkeys</title>
+      <director>Terry Gilliam</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="185">
+      <title>Mary and Max</title>
+      <director>Adam Elliot</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="186">
+      <title>Dog Day Afternoon</title>
+      <director>Sidney Lumet</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="187">
+      <title>Donnie Darko</title>
+      <director>Richard Kelly</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="188">
+      <title>Howl&apos;s Moving Castle</title>
+      <director>Hayao Miyazaki</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="189">
+      <title>Amores Perros</title>
+      <director>Alejandro Gonzalez</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="190">
+      <title>Persona</title>
+      <director>Ingmar Bergman</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="191">
+      <title>The Bourne Ultimatum</title>
+      <director>Paul Greengrass</director>
+      <genre>action</genre>
+    </movie>
+    <movie id="192">
+      <title>Gandhi</title>
+      <director>Richard Attenborough</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="193">
+      <title>The Killing</title>
+      <director>Stanley Kubrick</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="194">
+      <title>A Beautiful Mind</title>
+      <director>Ron Howard</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="195">
+      <title>The Graduate</title>
+      <director>Mike Nichols</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="196">
+      <title>Black Swan</title>
+      <director>Darren Aronofsky</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="197">
+      <title>The Princess Bride</title>
+      <director>Rob Reiner</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="198">
+      <title>Who&apos;s Afraid of Virginia Woolf?</title>
+      <director>Mike Nichols</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="199">
+      <title>8 and a half</title>
+      <director>Federico Fellini</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="200">
+      <title>The Hustler</title>
+      <director>Robert Rossen</director>
+      <genre>sport</genre>
+    </movie>
+    <movie id="201">
+      <title>La Strada</title>
+      <director>Federico Fellini</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="202">
+      <title>Rocky</title>
+      <director>John G. Avildsen</director>
+      <genre>sport</genre>
+    </movie>
+    <movie id="203">
+      <title>The Man Who Shot Liberty Valance</title>
+      <director>John Ford</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="204">
+      <title>Anatomy of a Murder</title>
+      <director>Otto Preminger</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="205">
+      <title>Slumdog Millionaire</title>
+      <director>Danny Boyle, Loveleen Tandan</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="206">
+      <title>The Exorcist</title>
+      <director>William Friedkin</director>
+      <genre>horror</genre>
+    </movie>
+    <movie id="207">
+      <title>Rope</title>
+      <director>Alfred Hitchcock</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="208">
+      <title>Barry Lyndon</title>
+      <director>Stanley Kubrick</director>
+      <genre>adventure</genre>
+    </movie>
+    <movie id="209">
+      <title>The Manchurian Candidate</title>
+      <director>John Frankenheimer</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="210">
+      <title>In the Name of the Father</title>
+      <director>Jim Sheridan</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="211">
+      <title>The Wild Bunch</title>
+      <director>Sam Peckinpah</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="212">
+      <title>Stalag 17</title>
+      <director>Billy Wilder</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="213">
+      <title>Monsters, Inc.</title>
+      <director>Pete Docter, David Silverman</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="214">
+      <title>Infernal Affairs</title>
+      <director>Andrew Lau, Alan Mak</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="215">
+      <title>Memories of Murder</title>
+      <director>Joon-ho Bong</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="216">
+      <title>The Truman Show</title>
+      <director>Peter Weir</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="217">
+      <title>3 Idiots</title>
+      <director>Rajkumar Hirani</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="218">
+      <title>Like Stars on Earth</title>
+      <director>Aamir Khan</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="219">
+      <title>Life of Pi</title>
+      <director>Ang Lee</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="220">
+      <title>Pirates of the Caribbean: The Curse of the Black Pearl</title>
+      <director>Gore Verbinski</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="221">
+      <title>Roman Holiday</title>
+      <director>William Wyler</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="222">
+      <title>Fanny and Alexander</title>
+      <director>Ingmar Bergman</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="223">
+      <title>Stalker</title>
+      <director>Andrei Tarkovsky</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="224">
+      <title>Sleuth</title>
+      <director>Joseph L. Mankiewicz</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="225">
+      <title>Harry Potter and the Deathly Hallows: Part 2</title>
+      <director>David Yates</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="226">
+      <title>A Fistful of Dollars</title>
+      <director>Sergio Leone</director>
+      <genre>western</genre>
+    </movie>
+    <movie id="227">
+      <title>Jurassic Park</title>
+      <director>Steven Spielberg</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="228">
+      <title>Ip Man</title>
+      <director>Wilson Yip</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="229">
+      <title>Star Trek</title>
+      <director>J.J. Abrams</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="230">
+      <title>Incendies</title>
+      <director>Denis Villeneuve</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="231">
+      <title>The Hobbit: An Unexpected Journey</title>
+      <director>Peter Jackson</director>
+      <genre>fantasy</genre>
+    </movie>
+    <movie id="232">
+      <title>District 9</title>
+      <director>Neill Blomkamp</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="233">
+      <title>Shutter Island</title>
+      <director>Martin Scorsese</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="234">
+      <title>A Streetcar Named Desire</title>
+      <director>Elia Kazan</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="235">
+      <title>Ratatouille</title>
+      <director>Brad Bird, Jan Pinkava</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="236">
+      <title>La Haine</title>
+      <director>Mathieu Kassovitz</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="237">
+      <title>The Artist</title>
+      <director>Michel Hazanavicius</director>
+      <genre>romantic comedy</genre>
+    </movie>
+    <movie id="238">
+      <title>The Diving Bell and the Butterfly</title>
+      <director>Julian Schnabel</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="239">
+      <title>Rain Man</title>
+      <director>Barry Levinson</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="240">
+      <title>All Quiet on the Western Front</title>
+      <director>Lewis Milestone</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="241">
+      <title>Nausica of the Valley of the Wind</title>
+      <director>Hayao Miyazaki</director>
+      <genre>sci-fi</genre>
+    </movie>
+    <movie id="242">
+      <title>Beauty and the Beast</title>
+      <director>Gary Trousdale, Kirk Wise</director>
+      <genre>family</genre>
+    </movie>
+    <movie id="243">
+      <title>Rosemary&apos;s Baby</title>
+      <director>Roman Polanski</director>
+      <genre>horror</genre>
+    </movie>
+    <movie id="244">
+      <title>Papillon</title>
+      <director>Franklin J. Schaffner</director>
+      <genre>biography</genre>
+    </movie>
+    <movie id="245">
+      <title>Mystic River</title>
+      <director>Clint Eastwood</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="246">
+      <title>Harvey</title>
+      <director>Henry Koster</director>
+      <genre>comedy</genre>
+    </movie>
+    <movie id="247">
+      <title>Before Sunrise</title>
+      <director>Richard Linklater</director>
+      <genre>romance</genre>
+    </movie>
+    <movie id="248">
+      <title>Spring, Summer, Fall, Winter... and Spring</title>
+      <director>Ki-duk Kim</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="249">
+      <title>Arsenic and Old Lace</title>
+      <director>Frank Capra</director>
+      <genre>thriller</genre>
+    </movie>
+    <movie id="250">
+      <title>Three Colors: Red</title>
+      <director>Krzysztof Kieslowski</director>
+      <genre>drama</genre>
+    </movie>
+    <movie id="251">
+      <title>Hachi: A Dog&apos;s Tale</title>
+      <director>Lasse Hallstram</director>
+      <genre>family</genre>
+    </movie>
+  </movies>
+  <people id="252">
+    <person id="253">
+      <name>Jim</name>
+      <maximumBooks>3</maximumBooks>
+      <maximumMovies>1</maximumMovies>
+    </person>
+    <person id="254">
+      <name>Sus</name>
+      <maximumBooks>3</maximumBooks>
+      <maximumMovies>1</maximumMovies>
+    </person>
+  </people>
+</org.persistence.tutorial.MyMovieLibrary>

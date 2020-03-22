@@ -134,11 +134,6 @@ public class MyLibrary {
 		testLibrary.checkOut(b2, jim);
 		
 		testLibrary.printStatus();
-		
-		MyUtilities.saveMyLibraryToXMLFile("testmain.xml", testLibrary);
-		MyLibrary newMyLibrary = MyUtilities.getMyLibraryFromXMLFile("testmain.xml");
-		System.out.println("Printing information from saved xml file");
-		newMyLibrary.printStatus();
 
 	}
 

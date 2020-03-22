@@ -51,13 +51,12 @@ public class MyMovieUtilities {
 		}
 		return sb.toString();
 	}
-
 		
 	public static String convertToXML(MyMovieLibrary ml) {
 		XStream xstream = new XStream(new DomDriver());
 		xstream.setMode(XStream.ID_REFERENCES);
 		xstream.alias("person", Person.class);
-		xstream.alias("book", Book.class);
+		xstream.alias("movie", Movie.class);
 		xstream.alias("myMovieLibrary", MyMovieLibrary.class);
 		return xstream.toXML(ml);
 	}
@@ -67,7 +66,7 @@ public class MyMovieUtilities {
 		XStream xstream = new XStream(new DomDriver());
 		xstream.setMode(XStream.ID_REFERENCES);
 		xstream.alias("person", Person.class);
-		xstream.alias("book", Book.class);
+		xstream.alias("movie", Movie.class);
 		xstream.alias("myMovieLibrary", MyMovieLibrary.class);
 		Object obj = xstream.fromXML(XMLString);
 		if( obj instanceof MyMovieLibrary) {

@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 public class MyMovieLibrary {
 	
+	public String name = "";
 	ArrayList<Movie> movies;
 	ArrayList<Person> people;
 
@@ -114,7 +115,7 @@ public class MyMovieLibrary {
 	}
 			
 	private void printStatus() {
-		System.out.println("Status Report of MyLibrary: \n" + 
+		System.out.println("Status Report of MyMovieLibrary: \n" + 
 				this.toString());
 
 		for (Movie thisMovie : this.getMovies()) {
@@ -129,8 +130,17 @@ public class MyMovieLibrary {
 		
 		System.out.println("Movies Available: "
 				+ this.getAvailableMovies().size());
+		
+		System.out.println(this.getMoviesByGenre("drama").size() + " of “drama” movies");
+		System.out.println(this.getMoviesByGenre("comedy").size() + " of “comedy” movies");
+		System.out.println(this.getMoviesByGenre("family").size() + " of “family” movies");
+		
+		System.out.println(this.getMoviesByDirector("Alfred Hitchcock").size() + " of movies directed by Alfred Hitchcock");
+		System.out.println(this.getMoviesByDirector("David Yates").size() + " of movies directed by David Yates");
+		System.out.println(this.getMoviesByDirector("Steven Spielberg").size() + " of movies directed by Steven Spielberg");
+		
 		System.out.println("--- End of Status Report---\n");
-			
+		
 	}
 	
 	@Override
@@ -140,34 +150,32 @@ public class MyMovieLibrary {
 		+ this.getPeople().size() + " people.";
 	}
 	
+	public ArrayList<Movie> getMoviesByGenre(String genre) {
+		ArrayList<Movie> moviesWithAppropriateGenre = new ArrayList<Movie>();
+		for (Movie movie : movies) {
+			if(movie.getGenre().equals(genre)) {
+				moviesWithAppropriateGenre.add(movie);
+			}
+		}
+		return moviesWithAppropriateGenre;
+	}
+	
+	public ArrayList<Movie> getMoviesByDirector(String director) {
+		ArrayList<Movie> moviesWithAppropriateDirector = new ArrayList<Movie>();
+		for (Movie movie : movies) {
+			if(movie.getDirector().equals(director)) {
+				moviesWithAppropriateDirector.add(movie);
+			}
+		}
+		return moviesWithAppropriateDirector;
+	}
+	
 	
 	public static void main (String[] args) {
-		MyMovieLibrary myMovieLibrary = new MyMovieLibrary();
-		Person july = new Person("July", 1);
-		Person sam = new Person("Sam", 1);
-		
-		Movie movie1 = new Movie("Forest Gump", "Drama");
-		Movie movie2 = new Movie("Inception", "Action");
-		movie1.setDirector("Robert Zemeckis");
-		movie2.setDirector("Christopher Nolan");
-		
-		myMovieLibrary.addMovie(movie1);
-		myMovieLibrary.addMovie(movie2);
-		myMovieLibrary.addPerson(july);
-		myMovieLibrary.addPerson(sam);
-		
-		System.out.println("Just Created New Library");
-		myMovieLibrary.printStatus();
-				
-		myMovieLibrary.checkOut(movie1, sam);
-		System.out.println("Checked out Forest Gump to Sam");
-		myMovieLibrary.printStatus();
-		
-		myMovieLibrary.checkIn(movie1);
-		myMovieLibrary.checkOut(movie2, july);
-		myMovieLibrary.printStatus();
 
+		MyMovieLibrary newMyLibrary = MyMovieUtilities.getMyMovieLibraryFromXMLFile("cnxmovielibrary.xml");
+		newMyLibrary.printStatus();
+		
 	}
-
 			
 }

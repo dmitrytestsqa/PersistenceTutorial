@@ -240,5 +240,35 @@ public class MyMovieLibraryTest extends TestCase {
 		addItems();
 		assertEquals("My Movie Library: 2 movies; 2 people.", movLib.toString());
 	}
+	
+	public void testGetMoviesByGenre() {
+		setup();
+		addItems();
+		assertEquals(1, movLib.getMoviesByGenre("Drama").size());
+		assertEquals(1, movLib.getMoviesByGenre("Action").size());
+		Movie mov3 = new Movie("The Matrix", "Action");
+		Movie mov4 = new Movie("The Green Mile", "Drama");
+		movLib.addMovie(mov3);
+		movLib.addMovie(mov4);
+		assertEquals(2, movLib.getMoviesByGenre("Drama").size());
+		assertEquals(2, movLib.getMoviesByGenre("Action").size());
+	}
+	
+	public void testGetMoviesByDirector() {
+		setup();
+		addItems();
+		mov1.setDirector("Robert Zemeckis");
+		mov2.setDirector("Christopher Nolan");
+		assertEquals(1, movLib.getMoviesByDirector("Robert Zemeckis").size());
+		assertEquals(1, movLib.getMoviesByDirector("Christopher Nolan").size());
+		Movie mov3 = new Movie("Contact", "Mystery");
+		mov3.setDirector("Robert Zemeckis");
+		Movie mov4 = new Movie("Interstellar", "Adventure");
+		mov4.setDirector("Christopher Nolan");
+		movLib.addMovie(mov3);
+		movLib.addMovie(mov4);
+		assertEquals(2, movLib.getMoviesByDirector("Robert Zemeckis").size());
+		assertEquals(2, movLib.getMoviesByDirector("Christopher Nolan").size());
+	}
 		
 }
